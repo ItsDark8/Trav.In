@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543545139335",
+    "project_id": "travin-b131f",
+    "storage_bucket": "travin-b131f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543545139335:android:98ad4a6c9005313c605822",
+        "android_client_info": {
+          "package_name": "com.example.trav_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlivvXf84GzrLd-k7KGOiyTjZ8qY148fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

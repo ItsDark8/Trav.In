@@ -1,0 +1,84 @@
+{
+  "train_stations": [
+    {
+      "station_name": "AHMEDABAD JUNCTION",
+      "price": 150
+    },
+    {
+      "station_name": "SURAT",
+      "price": 120
+    },
+    {
+      "station_name": "VADODARA JUNCTION",
+      "price": 130
+    },
+    {
+      "station_name": "RAJKOT JUNCTION",
+      "price": 100
+    },
+    {
+      "station_name": "BHAVNAGAR TERMINUS",
+      "price": 110
+    },
+    {
+      "station_name": "GANDHINAGAR CAPITAL",
+      "price": 140
+    },
+    {
+      "station_name": "JUNAGADH JUNCTION",
+      "price": 90
+    },
+    {
+      "station_name": "ANAND JUNCTION",
+      "price": 80
+    },
+    {
+      "station_name": "BHARUCH JUNCTION",
+      "price": 95
+    },
+    {
+      "station_name": "DWARKA",
+      "price": 115
+    },
+    {
+      "station_name": "PORBANDAR",
+      "price": 105
+    },
+    {
+      "station_name": "VAPI",
+      "price": 85
+    },
+    {
+      "station_name": "MORBI",
+      "price": 70
+    },
+    {
+      "station_name": "MEHSANA JUNCTION",
+      "price": 90
+    },
+    {
+      "station_name": "VALSAD",
+      "price": 75
+    },
+    {
+      "station_name": "JAMNAGAR",
+      "price": 100
+    },
+    {
+      "station_name": "NAVSARI",
+      "price": 60
+    },
+    {
+      "station_name": "PALANPUR JUNCTION",
+      "price": 110
+    },
+    {
+      "station_name": "VERAVAL",
+      "price": 95
+    },
+    {
+      "station_name": "SURENDRANAGAR JUNCTION",
+      "price": 80
+    }
+  ]
+}
